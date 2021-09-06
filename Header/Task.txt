@@ -1,0 +1,33 @@
+Task 1:
+1. My bad.
+2. Any kind of issue could be detected by using vs code extension like W3C Validation.
+3. Doctype is a declaration of the document type by which the browser will get to know 
+about the version of HTML written in the file.
+4. Head is a tag that is used to contain the information about the document and define 
+the head portion. Meta is an element of the head portion that defines metadata to use 
+properties like keywords, character set, viewport setting, etc.
+5. I used viewport in meta tag to make the webpage responsive on devices like mobile 
+phones as it interacts on basis of the screen size of the device. If I don't use it, 
+the webpage will visible on small screens same as the computer screen.
+
+
+Task 2:
+1. No, I think using the unordered list is the better way.
+2. it was ridiculous. I have learned about BEM
+naming convention. 
+3. Label, input type, id name are must have tags to create a workable form. The name 
+attribute is used to reference the submitted data.
+4. Just have installed prettier but I think it isn't working properly.
+
+
+Task 3:
+1. Fixed it.
+2. * is CSS universal selector by which everything is included. If I don't use it 
+nothing will happen basically but here, I will be able to control the whole files' common styles.
+3. If I don't use margin and padding 0, in output browser will show some spaces.
+Margin and padding sets at 0 so there will be no space around the outside of the content.
+4. Learnt about google fonts.
+5. couldn't be clear.
+6. Using BEM naming convention for css, codes will be structured which will be super 
+effective to reuse and easy to understand and modify.
+7. 

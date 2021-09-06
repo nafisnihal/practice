@@ -1,28 +1,30 @@
 <!DOCTYPE html>
-<html lang="en"></html>
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Midnight Mart</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Arvo&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="styles/style.css">
 </head>
 
 <body>
     <div class="header">
-        <img class="logo" src="logo.png" alt="logo">
-        
-        <div class="extra">
-        <a href="E:/CODES/WebD%20Practice/Practice/Header/home.html">Home</a>
-        <a href="">Login</a>
-        <a href="">Registration</a>
-        <div class="search">
-        <input type="text" placeholder="Search here">
-        <input type="submit" >
-        </div>
+        <img class="header__logo" src="images/logo.png" alt="logo">
 
-        </div>
-
-      </div>
+        <nav class="header__nav">
+        <ul>
+            <li> <a href="home.html">Home</a> </li>
+            <li> <a href="">Login</a> </li>
+            <li> <a href="">Registration</a> </li>
+        </ul>
+        </nav>
+        <div class="header__search">
+        <input type="text" placeholder="Search here" id="search" name="search">
+        <input type="submit" value="Search">
+        </div>   
+    </div>
 </body>
 </html>
